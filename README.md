@@ -1,6 +1,8 @@
 # Overview
 
-Minimal template for [Flowbite](https://flowbite.com/) on [Vite](https://vitejs.dev)
+Minimal template for [Flowbite](https://flowbite.com/) + [Vite](https://vitejs.dev) + Typescript.
+
+For javascript template see https://flowbite.com/docs/getting-started/vue
 
 # How it was created
 
